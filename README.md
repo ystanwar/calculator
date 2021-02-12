@@ -4,5 +4,5 @@
     correct ex: 2 + 3 or 5 / 2 - 3
     incorrect ex: 2+3 or 5/2-3 will be considered invalid
     
-    This limiatation is independent of the caculator design, its how we take use input, we can resolve this limitation, without changing the caculator code
+    This limiatation is independent of the calculator design, its how we take use input, we can resolve this limitation, without changing the calculator code
 
